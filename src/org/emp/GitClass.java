@@ -10,4 +10,8 @@ private void method2() {
 System.out.println("welcome selenium");
 }
 
+private void method3() {
+System.out.println("welcome Python");
+}
+
 }
