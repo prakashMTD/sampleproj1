@@ -13,5 +13,7 @@ System.out.println("welcome selenium");
 private void method3() {
 System.out.println("welcome Python");
 }
-
+private void method6() {
+System.out.println("welcome Oracle");
+}
 }
